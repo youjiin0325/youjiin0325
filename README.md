@@ -1,6 +1,6 @@
 <h1  >Hello World! It's Jiin</h1>
 👉 <a href="https://www.instagram.com/pi9_6/">Instagram</a><br>
-👉 <a href="https://www.linkedin.com/in/jiin-yu-237a71237/">linkedin</a>
+👉 <a href="https://www.linkedin.com/in/jiin-yu-237a71237/">linkedin</a> <br>
 👉 <a href="https://www.notion.so/cc1e9586bc7b449b8522e8e34257c669?v=42006abf6e804988be4710645ab10aee&pvs=4">Notion</a> : 수업내용 정리 및, 수업시간에 배운 코드 정리(+ 리팩토링)
 
 
