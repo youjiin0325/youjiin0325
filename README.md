@@ -8,8 +8,8 @@
 _________________
 <h3>About me</h3>
 
-##### I'm an iOS developer with a hospitality background. My coding journey began when I felt frustrated using apps and thought, 'What if I create my own to solve these issues?' I'm deeply passionate about becoming a developer.
-##### In hospitality, I collaborated with people of diverse backgrounds. Growing up in different cultures, I developed effective cross-cultural communication. I'm also keen on learning new languages, driving me to study and develop in multiple languages.I'm interested in an iOS position and proficient in creating websites using HTML, CSS, and JavaScript.
+##### IOS 개발자로 나라에 상관없이 자유롭게 일할 수 있는 커뮤니케이션이 가능한 개발자가 되고 싶습니다.
+
 
 
 ____________________________________________________________________________________________________________
