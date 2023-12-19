@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 
 ### Meta iOS Developer
-* <a href = "[https://coursera.org/share/3b3b10dba463dedc59d66bb6e4930685](https://coursera.org/share/24a14870537c99ee9435f7548ee5d011)">Meta iOS Developer</a>
+* <a href = "https://coursera.org/share/24a14870537c99ee9435f7548ee5d011">Meta iOS Developer</a>
 
 
 
